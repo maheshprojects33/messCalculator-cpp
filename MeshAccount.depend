@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591465255 source:c:\users\lenovo\documents\codeblocks\mess_account\meshaccount\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<string>
+
+1591467152 source:c:\users\lenovo\documents\codeblocks\mess_account\meshaccount\icon.rc
+
